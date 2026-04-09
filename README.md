@@ -5,6 +5,20 @@ Resume Build is a web application built on MERN stack. It provides users the fac
 
 Demo: [Resume Builder](https://brave-goodall-c9adb7.netlify.app/)
 
+## ScreenShots
+
+## Register Page
+
+<img width="1919" height="1029" alt="register" src="[https://github.com/user-attachments/assets/74be1572-332a-4113-955e-c25025892f8](https://github.com/dushyant-netizen/WEB-DEV-3/blob/main/SIGNUP.png)8" />
+
+## Sign-In-Page
+
+<img width="1919" height="1029" alt="sign in" src="https://github.com/user-attachments/assets/a5ca0ba4-a887-4c94-a3f1-709c6a59f494" />
+
+## DashBoard
+
+<img width="1919" height="1031" alt="dashboard" src="https://github.com/user-attachments/assets/fb352747-aec6-41fb-bfe6-a73a0fad4e7f" />
+
 ## Features
 
 - Interactive Form – Users can input personal, educational, and professional details easily.
