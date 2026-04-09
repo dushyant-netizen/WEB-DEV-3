@@ -7,7 +7,7 @@ Demo: [Resume Builder](https://brave-goodall-c9adb7.netlify.app/)
 
 ## Features
 
-- **Interactive Form – Users can input personal, educational, and professional details easily
+- Interactive Form – Users can input personal, educational, and professional details easily
 
 - **Dynamic Templates – Multiple resume layouts to choose from
 
