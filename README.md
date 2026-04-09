@@ -9,7 +9,7 @@ Demo: [Resume Builder](https://brave-goodall-c9adb7.netlify.app/)
 
 ## Register Page
 
-<img width="1919" height="1029" alt="register" src="[https://github.com/user-attachments/assets/74be1572-332a-4113-955e-c25025892f8](https://github.com/dushyant-netizen/WEB-DEV-3/blob/main/SIGNUP.png)8" />
+<img width="1919" height="1029" alt="register" src="https://github.com/dushyant-netizen/WEB-DEV-3/blob/main/SIGNUP.png" />
 
 ## Sign-In-Page
 
