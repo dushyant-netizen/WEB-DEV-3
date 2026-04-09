@@ -5,6 +5,27 @@ Resume Build is a web application built on MERN stack. It provides users the fac
 
 Demo: [Resume Builder](https://brave-goodall-c9adb7.netlify.app/)
 
+## Features
+
+- **Interactive Form – Users can input personal, educational, and professional details easily.
+
+- **Dynamic Templates – Multiple resume layouts to choose from.
+
+- **Real‑time Preview – See changes instantly while editing.
+
+- **Export Options – Download resumes in PDF or DOCX format.
+
+- **Responsive Design – Works seamlessly across desktop and mobile.
+
+- **Data Persistence – Save progress locally or to the cloud.
+
+- **Customization – Adjust fonts, colors, and sections to personalize resumes.
+
+## Technologies Used
+
+- **Frontend:** React.js, React Router, Bootstrap
+- **Backend:** Node.js, Express.js, MongoDB
+
 ## Client
 
 ### Installation
