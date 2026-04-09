@@ -7,19 +7,19 @@ Demo: [Resume Builder](https://brave-goodall-c9adb7.netlify.app/)
 
 ## Features
 
-- Interactive Form – Users can input personal, educational, and professional details easily
+- Interactive Form – Users can input personal, educational, and professional details easily.
 
-- **Dynamic Templates – Multiple resume layouts to choose from
+- Dynamic Templates – Multiple resume layouts to choose from.
 
-- **Real‑time Preview – See changes instantly while editing
+- Real‑time Preview – See changes instantly while editing.
 
-- **Export Options – Download resumes in PDF or DOCX format
+- Export Options – Download resumes in PDF or DOCX format.
 
-- **Responsive Design – Works seamlessly across desktop and mobile
+- Responsive Design – Works seamlessly across desktop and mobile.
 
-- **Data Persistence – Save progress locally or to the cloud
+- Data Persistence – Save progress locally or to the cloud.
 
-- **Customization – Adjust fonts, colors, and sections to personalize resumes
+- Customization – Adjust fonts, colors, and sections to personalize resumes.
 
 ## Technologies Used
 
